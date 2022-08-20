@@ -61,8 +61,6 @@ http://localhost:8000/template.html
 ```
 
 
-## Help
 
-If you'd require any help while installing and running the application, please open a git issue.
 
 
